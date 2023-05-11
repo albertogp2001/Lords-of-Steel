@@ -30,7 +30,7 @@ public class LordsofSteel {
         
         
         //creamos personatges
-        Nan n1 = new Nan("Tirion",8,6, 13,16,16,new Arma("Daga"));
+        NanCaos n1 = new NanCaos("Tirion",8,6, 13,16,16,new Arma("Daga"));
         Huma h1 = new Huma("Luis",13,16,6,10,6,new Arma("Espasa"));
         Mitja mi1 = new Mitja("Frodo",9,7,7,15,16,new Arma("Martell"));
         Maia ma1 = new Maia("Nil",7,9,12,15,17,new Arma("Daga"));
